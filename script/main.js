@@ -1,7 +1,7 @@
 // trigger to play music in the background with sweetalert
 window.addEventListener('load', () => {
     Swal.fire({
-        title: 'Ek Birthday Song to Chala hi sakte hai?',
+        title: 'Can we play a birthday song?',
         icon: 'warning',
         showCancelButton: true,
         confirmButtonColor: '#3085d6',
