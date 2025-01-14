@@ -101,7 +101,7 @@ body {
   z-index: 1;
 }
 
-.six img {
+.profile-picture{
     display: inline-block;
     height: 350px;
     max-width: 100%;
